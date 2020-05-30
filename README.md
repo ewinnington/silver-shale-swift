@@ -13,7 +13,7 @@ https://swift.org/download/
 
 # Common tasks in Swift 
 
-It seems that for server side Swift, there's [Perfect](https://www.perfect.org/) as a complete stack and the [IBM swift libraries around Kitura](https://github.com/IBM-Swift). I started using the IBM libs for the moment. 
+It seems that for server side Swift, there's [Perfect](https://www.perfect.org/) as a complete stack and the [IBM swift libraries around Kitura](https://github.com/IBM-Swift). I started using the IBM libs for the moment. For the 
 
 ## Redis
 
@@ -62,5 +62,7 @@ It worked!
 ## Rabbitmq
 
 ## Serve Rest API
+
+For the Rest API, I have found [Vapor](https://vapor.codes/), [Perfect](https://www.perfect.org/) and [Kitura](https://www.kitura.io/) - although Kitura seems to have been abandoned or development stopped. 
 
 ## Access Rest API 
