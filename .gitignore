@@ -1,0 +1,5 @@
+cli-redis/.DS_Store
+cli-redis/.build
+cli-redis/cli-redis/Packages
+/*.xcodeproj
+cli-redis/xcuserdata/
