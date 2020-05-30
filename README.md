@@ -11,7 +11,9 @@ https://swift.org/download/
 5. verify it works by running ```swift```
 6. Run ```swift helloworld/hello.swift``` to check that hello world works!
 
-# Next steps
+# Common tasks in Swift 
+
+It seems that for server side Swift, there's [Perfect](https://www.perfect.org/) as a complete stack and the [IBM swift libraries around Kitura](https://github.com/IBM-Swift). I started using the IBM libs for the moment. 
 
 ## Redis
 
